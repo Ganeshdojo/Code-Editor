@@ -1,0 +1,26 @@
+Live Code Editor
+Project Description:
+The Live Code Editor allows users to write and execute HTML, CSS, and JavaScript code in real-time. It features separate tabs for each language, a resizable output panel, and full-screen modes for both the editor and the output display.
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+jQuery
+Key Features:
+Tabbed Interface: Separate tabs for HTML, CSS, and JavaScript editing.
+Real-Time Execution: Code changes reflect instantly in the output panel.
+Full-Screen Mode: Allows full-screen view for both editor and output panels.
+Theme Toggle: Provides a theme switcher for changing the editor's appearance.
+Responsive Design: Ensures usability across various devices and screen sizes.
+Files:
+index.html: The main HTML file containing the structure and UI elements of the Live Code Editor.
+style.css: The CSS file containing styles for the Live Code Editor.
+app.js: The JavaScript file containing the functionality for tab switching, code updating, full-screen modes, and theme toggling.
+Sections Overview:
+Tab Container
+Contains tabs for HTML, CSS, and JavaScript code editing.
+Output Holder
+Displays the real-time output of the code execution.
+Footer
+Credits the designer and developer of the Live Code Editor.
